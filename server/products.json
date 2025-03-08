@@ -1,0 +1,177 @@
+[
+  {
+    "product_id": "SKU-0001",
+    "category": "MCU",
+    "name": "ATMEGA4808-AFR",
+    "price": 2770,
+    "is_available": true
+  },
+  {
+    "product_id": "SKU-0002",
+    "category": "MCU",
+    "name": "RP2040",
+    "price": 1200,
+    "is_available": true
+  },
+  {
+    "product_id": "SKU-0003",
+    "category": "sensor",
+    "name": "ST-22",
+    "price": 450,
+    "is_available": true
+  },
+  {
+    "product_id": "SKU-0004",
+    "category": "sensor",
+    "name": "TCS34725FN",
+    "price": 2870,
+    "is_available": true
+  },
+  {
+    "product_id": "SKU-0005",
+    "category": "sensor",
+    "name": "V40PN16R",
+    "price": 1600,
+    "is_available": false
+  },
+  {
+    "product_id": "SKU-0006",
+    "category": "MCU",
+    "name": "STM32F103C8T6",
+    "price": 2850,
+    "is_available": true
+  },
+  {
+    "product_id": "SKU-0007",
+    "category": "MCU",
+    "name": "ESP32-WROOM-32",
+    "price": 3200,
+    "is_available": true
+  },
+  {
+    "product_id": "SKU-0008",
+    "category": "MCU",
+    "name": "PIC16F877A",
+    "price": 2100,
+    "is_available": true
+  },
+  {
+    "product_id": "SKU-0009",
+    "category": "MCU",
+    "name": "ATSAMD21G18",
+    "price": 3000,
+    "is_available": false
+  },
+  {
+    "product_id": "SKU-0010",
+    "category": "MCU",
+    "name": "MSP430G2553",
+    "price": 1900,
+    "is_available": true
+  },
+  {
+    "product_id": "SKU-0011",
+    "category": "sensor",
+    "name": "BME280",
+    "price": 2700,
+    "is_available": true
+  },
+  {
+    "product_id": "SKU-0012",
+    "category": "sensor",
+    "name": "MPU6050",
+    "price": 800,
+    "is_available": true
+  },
+  {
+    "product_id": "SKU-0013",
+    "category": "sensor",
+    "name": "HC-SR04",
+    "price": 500,
+    "is_available": false
+  },
+  {
+    "product_id": "SKU-0014",
+    "category": "sensor",
+    "name": "BMP180",
+    "price": 900,
+    "is_available": true
+  },
+  {
+    "product_id": "SKU-0015",
+    "category": "sensor",
+    "name": "MQ-2 Gas Sensor",
+    "price": 1200,
+    "is_available": true
+  },
+  {
+    "product_id": "SKU-0016",
+    "category": "communication",
+    "name": "HC-05 Bluetooth Module",
+    "price": 1300,
+    "is_available": true
+  },
+  {
+    "product_id": "SKU-0017",
+    "category": "communication",
+    "name": "NRF24L01 Wireless",
+    "price": 1600,
+    "is_available": false
+  },
+  {
+    "product_id": "SKU-0018",
+    "category": "communication",
+    "name": "ESP8266",
+    "price": 1000,
+    "is_available": true
+  },
+  {
+    "product_id": "SKU-0019",
+    "category": "communication",
+    "name": "W5500 Ethernet Module",
+    "price": 2000,
+    "is_available": true
+  },
+  {
+    "product_id": "SKU-0020",
+    "category": "memory",
+    "name": "AT24C256 EEPROM",
+    "price": 550,
+    "is_available": true
+  },
+  {
+    "product_id": "SKU-0021",
+    "category": "memory",
+    "name": "SST25VF032B Flash",
+    "price": 800,
+    "is_available": true
+  },
+  {
+    "product_id": "SKU-0022",
+    "category": "power",
+    "name": "AMS1117-3.3 Regulator",
+    "price": 300,
+    "is_available": true
+  },
+  {
+    "product_id": "SKU-0023",
+    "category": "power",
+    "name": "MP1584EN Buck Converter",
+    "price": 700,
+    "is_available": false
+  },
+  {
+    "product_id": "SKU-0024",
+    "category": "power",
+    "name": "LD1117V33 Regulator",
+    "price": 400,
+    "is_available": true
+  },
+  {
+    "product_id": "SKU-0025",
+    "category": "sensor",
+    "name": "RC522 RFID Module",
+    "price": 2200,
+    "is_available": true
+  }
+]
